@@ -10,6 +10,6 @@ Here, we track the changes to this framework in response to feedback they receiv
 - Comments received
   - [2014-2015](https://archive.org/details/California-text-History-2015)
   - [2016-02](https://archive.org/details/California-text-History-2016-02)
-  - Keywords to find prominent commenters: Uberoi, Michel Danino, Ashok Adlujkar(sic), BB Lal, HEF, HAF, Kamala, South Asian,
+  - Keywords to find prominent commenters: Uberoi, Michel Danino, Ashok Adlujkar(sic), BB Lal, HEF, HAF, Kamala, South Asian, Ramdas Lamb, Tushar Pandya
 - [Changes in their drafts](https://github.com/sanskrit-coders/ca-textbook/blob/master/comparison/external-comparisons.md)
 
